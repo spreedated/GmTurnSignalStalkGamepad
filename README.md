@@ -110,10 +110,6 @@ Just star the repo or make a donation.
 
 Your help is valuable since this is a hobby project for all of us: we do development during out-of-office hours.
 
-## Support
-
-If you encounter any issues or have questions, please open an [issue](https://github.com/spreedated/cs2adrtracker/issues).
-
 ## Contribution
 Pull requests are very welcome.
 
